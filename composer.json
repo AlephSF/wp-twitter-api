@@ -1,0 +1,14 @@
+
+{
+    "name": "AlephSF/wp-twitter-api",
+    "description": "Helper plugin for connecting to the Twitter API via OAuth and WordPress.",
+    "type": "wordpress-plugin",
+    "authors": [
+        {
+            "name": "Matt Glaser",
+            "email": "matt@alephsf.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
