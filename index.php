@@ -1,3 +1,4 @@
+<?php
 /*
  * Plugin Name: Essential Product Tweets
  */
